@@ -9,7 +9,7 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		System.out.println("vanghtc update git --amend");
-		System.out.println("git fetch");
+		System.out.println("git fetch diff");
 	}
 
 }
